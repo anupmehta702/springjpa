@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean void setDataSource(javax.sql.DataSource)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
